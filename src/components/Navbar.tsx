@@ -9,19 +9,21 @@ export default function Navbar() {
     <nav className='fixed top-0 z-50 w-full bg-slate-950/20 backdrop-blur-sm transition-all duration-300'>
       <div className='mx-auto max-w-7xl px-4 sm:px-6 lg:px-8'>
         <div className='flex h-14 items-center justify-between sm:h-16 md:h-20'>
-          <div className='group flex cursor-pointer items-center space-x-1'>
-            <div>
-              <img
-                src='/logo.png'
-                alt='CodeFlow'
-                className='size-6 sm:size-8'
-              />
+          <a href='#'>
+            <div className='group flex cursor-pointer items-center space-x-1'>
+              <div>
+                <img
+                  src='/logo.png'
+                  alt='CodeFlow'
+                  className='size-6 sm:size-8'
+                />
+              </div>
+              <span className='text-lg font-medium sm:text-xl md:text-2xl'>
+                <span className='text-white'>Code</span>
+                <span className='text-blue-400'>Flow</span>
+              </span>
             </div>
-            <span className='text-lg font-medium sm:text-xl md:text-2xl'>
-              <span className='text-white'>Code</span>
-              <span className='text-blue-400'>Flow</span>
-            </span>
-          </div>
+          </a>
 
           {/* Nav Links */}
           <div className='hidden items-center space-x-6 md:flex lg:space-x-8'>
