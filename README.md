@@ -15,6 +15,6 @@
 ## Technologies Used
 - ReactJS
 - Tailwind CSS
-- JavaScript (ES6+)
+- TypeScript (ES6+)
 - HTML5 & CSS3
 
