@@ -1,6 +1,6 @@
 # StackSage
 
- Fully Responsive Modern Website using ReactJS and Tailwind CSS
+### Fully Responsive Modern Website using ReactJS and Tailwind CSS
 
 ![StackSage Screenshot](./screenshot.png)
 
