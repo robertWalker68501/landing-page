@@ -19,8 +19,8 @@ export default function Navbar() {
                 />
               </div>
               <span className='text-lg font-medium sm:text-xl md:text-2xl'>
-                <span className='text-white'>Code</span>
-                <span className='text-blue-400'>Flow</span>
+                <span className='text-white'>Stack</span>
+                <span className='text-blue-400'>Sage</span>
               </span>
             </div>
           </a>

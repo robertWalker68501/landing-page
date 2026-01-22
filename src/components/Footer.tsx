@@ -24,13 +24,13 @@ export default function Footer() {
               <div className='rounded-lg'>
                 <img
                   src='/logo.png'
-                  alt='CodeFlow Logo'
+                  alt='StackSage Logo'
                   className='h-6 w-6 sm:h-8 sm:w-8'
                 />
               </div>
               <span className='text-lg font-bold sm:text-xl'>
-                <span className='text-white'>Code</span>
-                <span className='text-blue-400'>Flow</span>
+                <span className='text-white'>Stack</span>
+                <span className='text-blue-400'>Sage</span>
               </span>
             </div>
             <p className='mx-auto mb-4 max-w-xs text-sm text-gray-400 sm:mx-0 sm:mb-6 sm:text-base'>
@@ -94,7 +94,7 @@ export default function Footer() {
         <div className='border-t-0 border-slate-800 pt-6 sm:border-t sm:pt-8'>
           <div className='flex flex-col items-center justify-between space-y-3 sm:flex-row sm:space-y-0'>
             <p className='text-xs text-gray-400 sm:text-sm'>
-              © 2025 CodeFlow. All rights reserved.
+              © 2025 StackSage. All rights reserved.
             </p>
             <div className='flex items-center space-x-4 text-xs sm:space-x-6 sm:text-sm'>
               <a

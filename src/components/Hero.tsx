@@ -38,7 +38,7 @@ export default function Hero() {
             <div className='animate-in slide-in-from-bottom mb-4 inline-flex items-center space-x-2 rounded-full border border-blue-500/20 bg-blue-500/10 px-3 py-2 duration-700 sm:mb-6 sm:px-4'>
               <Sparkles className='h-4 w-4 text-blue-400' />
               <span className='text-xs text-blue-300 sm:text-sm'>
-                Introducing CodeFlow AI
+                Introducing StackSage
               </span>
             </div>
 
@@ -50,7 +50,7 @@ export default function Hero() {
                 Build Better
               </span>
               <span className='mb-1 block bg-linear-to-r from-white via-blue-100 to-cyan-100 bg-clip-text text-transparent sm:mb-2'>
-                With CodeFlow AI
+                With StackSage
               </span>
             </h1>
 
@@ -86,7 +86,7 @@ export default function Hero() {
                       <div className='h-2 w-2 rounded-full bg-green-500 sm:h-3 sm:w-3' />
                     </div>
                     <span className='text-xs text-gray-300 sm:text-sm'>
-                      CodeFlow AI
+                      StackSage
                     </span>
                   </div>
                   <ChevronDown className='h-3 w-3 text-gray-400 sm:h-4 sm:w-4' />
